@@ -1,0 +1,120 @@
+body{
+    margin: 0;
+    padding: 0;
+}
+.top-section{
+    background-image: url(images/Shape\ 1@1X.png);
+    margin-top: -40px;
+}
+svg{
+    margin-top: -25px;
+}
+.navbar{
+    background-color: #FF4363;
+    margin-bottom: 0;
+}
+.navbar-nav{
+    margin-right: 0;
+    margin-left: auto;
+}
+.logo{
+    font-weight: bolder;
+    color: white;
+    text-decoration: none;
+    margin-left: 50px;
+}
+.nav-link{
+    margin: 0 10px;
+}
+.nav-link:hover{
+    background: #f4a261;
+}
+.top-banner{
+    margin-top: 30px;
+    padding: 20px;
+}
+.top-image{
+    max-height: 400px;
+}
+.text-column{
+    color: white;
+}
+.button{
+    border: none;
+    padding: 5px 10px;
+    border-radius: 30px;
+    text-align: center;
+    font-weight: bold;
+    font-size: 13px;
+}
+.button-one{
+    color: #FF4363;
+}
+.button-one:hover{
+    background-color:#3f3bfc ;
+    color: white;
+}
+.button-two{
+    color: white;
+    background-color: #FF4363;
+    margin-left: 1em;
+}
+.button-two:hover{
+    background-color:#fdfdfd ;
+    border: 1px solid grey;
+    color: rgb(253, 25, 25);
+}
+.play-icon{
+    height: 22px ;
+    color: white;
+}
+.icon{
+    height: 20px;
+    width: 25px;
+
+}
+.card-group{
+    margin-top: 10px;
+    margin-bottom: 50px;
+}
+.card{
+    padding: 15px;
+    text-align: center;
+    margin: 20px;
+    border: 1px solid black;
+    border-radius: 0;
+    box-shadow: none;
+}
+.card:hover{
+    box-shadow: 1px 1px 10px grey;
+}
+.card small{
+    font-size: 10px;
+}
+.second-section{
+    margin-top: 50px;
+}
+.work-list li{
+    list-style-type:circle;
+}
+.second-bg-section{
+    background-image: url(images/Shape\ 1\ copy@1X.png);
+    color: white;
+}
+.third-bg-section{
+    background-color:#FF4363 ;
+    color: white;
+    padding: 20px;
+    border-radius: 5px;
+}
+.sixth-section{
+   text-align: center;
+   padding: 20px;
+}
+footer{
+    background-color: black;
+    color: white;
+    padding: 20px;
+    text-align: center;
+    font-size: 10px;
+}
